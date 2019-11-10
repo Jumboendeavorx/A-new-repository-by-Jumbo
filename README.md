@@ -1,2 +1,4 @@
-# A-new-repository-by-Jumbo
-for study
+# About me
+Haoyu (Jumbo) Wei
+Undergraduate
+University of Electronic Science and Technology of China, UESTC
